@@ -1,7 +1,7 @@
 <p align="center">
  <h1 align="center">Hello there! I am Andrea 🤗</h1>
  <p align="center">Welcome to my Github page 🏵 I am a Computer and Systems Engineer with a huge passion for creating software that generates impact and empowers people through powerful narratives.</p>
- <p align="center"> I love connecting with people, so you can always get in touch with me 😊</p>
+ <p align="center">Let's connect! My social media is always open 😊</p>
  <p align="center">
   <a href="https://github.com/acbeltrans">
      <img alt="" src="https://img.shields.io/badge/-acbeltrans-000?style=flat&logo=Github&logoColor=white" />
@@ -21,7 +21,7 @@
 ### 🔥 What are my big passions?
 * 👩‍💻 Coding
 * 🌟 Empowering people through technology
-* 🎨 Design and create experiences
+* 🎨 Designing and creating experiences
 * 🎮 Being a game developer in my free time
 * 📜 Colombia and its history
 
