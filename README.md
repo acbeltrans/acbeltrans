@@ -26,8 +26,8 @@
 * 📜 Colombia and its history
 
 ### 💼 What projects have I worked on?
-* <a href="https://github.com/acbeltrans/3d-graveyard">3D Graveyard<a>: Taking my first steps in creating 3D experiences using react-three-fiber, a React renderer for Three.js
-* <a href="https://github.com/Juanpablor5/CV-OD">CIVIS SUM<a>: Through visual analytics, it allows comparing and observing points of interest on the behavior of both Colombians and the Congress of the Republic to obtain insights on citizen representation.
+* <a href="https://github.com/acbeltrans/3d-graveyard">3D Graveyard<a>: Taking my first steps in creating 3D experiences using <a href="https://github.com/pmndrs/react-three-fiber">react-three-fiber<a>, a React renderer for Three.js
+* <a href="https://github.com/Juanpablor5/CV-OD">Civis Sum<a>: Through visual analytics, it allows comparing and observing points of interest on the behavior of both Colombians and the Congress of the Republic to obtain insights on citizen representation.
 
 ### 🎈 What are my skills?
 
