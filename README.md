@@ -21,6 +21,7 @@
 ### 🔥 What are my big passions?
 * 👩‍💻 Coding
 * 🌟 Empowering people through technology
+* 🎨 Design and create experiences
 * 🎮 Being a game developer in my free time
 * 📜 Colombia and its history
 
