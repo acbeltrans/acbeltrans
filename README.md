@@ -21,12 +21,9 @@
 ### 🔥 What are my big passions?
 * 👩‍💻 Coding
 * 🌟 Empowering people through technology
-* 🎨 Designing and creating experiences
-* 🎮 Being a game developer in my free time
 * 📜 Colombia and its history
 
 ### 💼 What projects have I worked on?
-* <a href="https://github.com/acbeltrans/3d-graveyard">3D Graveyard<a>: Taking my first steps in creating 3D experiences using <a href="https://github.com/pmndrs/react-three-fiber">react-three-fiber<a>, a React renderer for Three.js
 * <a href="https://github.com/Juanpablor5/CV-OD">Civis Sum<a>: Through visual analytics, it allows comparing and observing points of interest on the behavior of both Colombians and the Congress of the Republic to obtain insights on citizen representation.
 
 ### 🎈 What are my skills?
@@ -37,17 +34,17 @@ const myTechSkills = {
   webDevelopment: {
     frontEnd: {
       css: ['Bootstrap', 'Sass'],
-      js: ['React', 'Gatsby', 'styled-components', 'Three.js', 'react-three-fiber', 'GSAP', 'D3', 'Vega-Lite'],
+      js: ['React', 'Gatsby', 'styled-components', 'react-three-fiber', 'D3', 'Vega-Lite'],
       testing: 'Jest',
     },
     backEnd: {
       js: ['Node.js', 'ExpressJS', 'Meteor.js'],
     },
-    databases: 'MongoDB',
+    databases: ['SQL', 'MongoDB'],
   },
   cloudComputing: {
-    AWS: ['EC2', 'S3', 'VPC', 'CloudFront', 'Route 53', 'IAM'],
+    AWS: ['CloudFront', 'EC2', 'IAM', 'RDS', 'Route 53', 'S3', 'VPC'],
   },
-  tools: ['Git', 'Visual Studio'],
+  tools: 'Git',
 };
 ```
