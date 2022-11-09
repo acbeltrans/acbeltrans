@@ -6,9 +6,6 @@
   <a href="https://github.com/acbeltrans">
      <img alt="" src="https://img.shields.io/badge/-acbeltrans-000?style=flat&logo=Github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/andreabeltransamudio/">
-     <img alt="" src="https://img.shields.io/badge/-andreabeltransamudio-blue?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
   <a href="https://twitter.com/AndreaBeltranS">
      <img alt="" src="https://img.shields.io/badge/-AndreaBeltranS-1ca0f1?style=flat&logo=Twitter&logoColor=white" />
   </a>
